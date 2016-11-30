@@ -1,1 +1,21 @@
-# How-to-CSS-Transitions
+# How to CSS Transitions
+
+## CSS Transitions
+
+CSS3 transitions allows you to change property values smoothly (from one value to another), over a given duration.
+
+An example of this is hovering your mouse over a button and the button enlarges and changes colour.
+
+How to Use CSS3 Transitions?
+
+To create a transition effect, you must specify two things:
+
+*the CSS property you want to add an effect to 
+*the duration of the effect
+
+Note: If the duration part is not specified, the transition will have no effect, because the default value is 0.
+
+I have created a tutorial to demonstrate how to use CSS Transitions: https://thimbleprojects.org/eroberts27/142540
+
+Here is the link to the code of my tutorial: https://drive.google.com/drive/folders/0BwQJTPKjKYjxT2N1MzJ4S1gxbms?usp=sharing
+
