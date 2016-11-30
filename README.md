@@ -10,8 +10,8 @@ How to Use CSS3 Transitions?
 
 To create a transition effect, you must specify two things:
 
-*the CSS property you want to add an effect to 
-*the duration of the effect
+* The CSS property you want to add an effect to 
+* The duration of the effect
 
 Note: If the duration part is not specified, the transition will have no effect, because the default value is 0.
 
