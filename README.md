@@ -15,7 +15,7 @@ To create a transition effect, you must specify two things:
 
 Note: If the duration part is not specified, the transition will have no effect, because the default value is 0.
 
-I have created a tutorial to demonstrate how to use CSS Transitions: https://thimbleprojects.org/eroberts27/142540
+I have created a tutorial to demonstrate how to use CSS Transitions: https://thimbleprojects.org/eroberts27/142540 along with my original presentation:https://github.com/eroberts28/CSSTrick
 
 Here is the link to the code of my tutorial: https://drive.google.com/drive/folders/0BwQJTPKjKYjxT2N1MzJ4S1gxbms?usp=sharing
 
